@@ -56,8 +56,6 @@ epilepsy-rnaseq-ml/
 
 ### UMAP Visualization
 
-![UMAP](figures/umap_pathology_groups.png)
-
 UMAP revealed clear separation of TLE-HS samples from other epilepsy pathologies, suggesting distinct transcriptional profiles.
 
 ### Classification Performance
@@ -70,8 +68,6 @@ UMAP revealed clear separation of TLE-HS samples from other epilepsy pathologies
 Both models demonstrated strong performance in distinguishing epilepsy from control samples.
 
 ### Top Predictive Genes
-
-![Feature Importance](figures/random_forest_top20_features.png)
 
 Feature importance analysis identified genes associated with neuroinflammatory and microglial pathways, including:
 
